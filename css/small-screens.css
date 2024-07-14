@@ -1,0 +1,435 @@
+
+/* CSS Document */
+
+@media only screen and (max-width : 768px) {
+	
+body, html{
+	overflow-x: hidden;
+}
+
+p{
+	font-size:1.1em;	
+}
+
+.navbar{
+	min-height:60px;
+}
+
+.navbar-brand{
+	padding: 18px 15px;
+}
+
+.navbar-brand img{
+	max-width:50%;
+}
+
+/*Hero Image Styles*/
+
+.hero-image h1{
+	font-size:2em;
+}
+
+.hero-image-text{
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+	
+.hero-image-text {
+    max-width: 100%;
+    top: 50%;
+}
+
+.cb-slideshow li div h1 {font-size: 25px;}
+
+.hero-image p {
+    font-size: 1.1em;
+    width: 80%;
+    margin: 0 auto;
+}	
+	
+/*Discover Courses Styles*/
+	
+.discover-courses{
+
+}
+
+.discover-courses .left-column{
+	width: 100%;
+	height:50%;
+}
+	
+.discover-courses .left-column .left-column-text{
+	top: 30%;
+}
+
+.discover-courses .left-column h3 {
+    width: 80%;
+    font-size: 2em;
+}
+
+.discover-courses .right-column{
+	width: 100%;
+	height: 450px;
+}
+
+ 
+/*Our Stories Styles*/
+
+.our-stories-home h3{
+	font-size: 25px;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 0 5% 0;
+}
+
+/*Skilled workforce Styles*/
+
+.skiled-workforce{
+ 
+}
+
+.skiled-workforce .left-column{
+	width: 100%;
+	height: 450px;
+}
+
+.skiled-workforce .right-column{
+	width:100%;
+	height:50%;
+}
+
+.skiled-workforce .right-column .right-column-text{
+	top:30%;
+	
+}
+
+.skiled-workforce .right-column h3{
+    width: 80%;
+    font-size: 2em;
+}
+
+/*Footer Styles*/
+
+footer{
+	text-align:center;
+	padding: 0 0 2% 0;
+}
+
+footer .container .row{
+	margin:0;
+}
+
+footer ul li{
+	padding: 3% 0;
+	border-top: 1px solid #ccc;
+}
+
+footer ul li:hover{
+	background: #f4f2f2;
+}
+
+footer .footer-social-media-icons{
+	display: inline-block;
+}
+
+footer .footer-social-media-icons li{
+	padding:0;
+	border:none;
+}
+
+footer .footer-social-media-icons li{
+	margin-right: 10px;
+}
+
+.footer-description{
+	padding: 3% 0 0 0;
+	margin:0;
+}
+
+.footer-description .left {
+    width: 100%;
+    float: left;
+	text-align:center;
+}
+
+.footer-description .right {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.border-none{
+	border-top:none;
+}
+
+.training-inner-content h2{
+	font-size:2em; 
+}
+
+.training-inner-content{
+	font-size:1.1em; 
+	}
+
+.training-inner-content p {
+    width: 90%;
+	font-size:1.1em; 
+    text-align: justify;
+    margin: 0 auto 4% auto;
+	font-weight:normal;
+}
+
+.contact-us .left-column{
+	width:100%;
+	background-attachment:fixed;
+}
+
+.contact-us .right-column{
+	width:100%; 
+	padding:5% 0;
+}
+
+.contact-us .right-column h1{
+	font-size: 2.5em;
+}
+
+.contact-us > .right-column  > p{
+	font-size: 1.1em;
+}
+
+/*construction Styles*/
+	
+.construction .left-column{
+	width: 100%;
+	height:50%;
+}
+	
+.construction .left-column .left-column-text{
+	top: 20%;
+}
+
+.construction .left-column p {
+    width: 80%;
+    font-size: 1.1em;
+    text-align: justify;
+	
+}
+
+.construction .left-column h3 {
+    width: 80%;
+    font-size: 2em;
+}
+
+.construction .right-column{
+	width: 100%;
+	height: 50%;
+}
+
+
+
+/*Automative Styles*/
+
+
+.automative .left-column{
+	width: 100%;
+	height: 50%;
+}
+
+.automative .right-column{
+	width:100%;
+	height:50%;
+}
+
+.automative .right-column p{
+	top:20%;
+	width: 80%;
+    font-size: 1.1em;
+    text-align: justify;
+	
+}
+
+.automative .right-column .right-column-text{
+	top: 20%;
+}
+
+
+.automative .right-column h3{
+    width: 80%;
+    font-size: 2em;
+}
+
+/*hospitality Styles*/
+	
+.hospitality .left-column{
+	width: 100%;
+	height:50%;
+}
+	
+.hospitality .left-column .left-column-text{
+	top: 20%;
+}
+
+.hospitality .left-column p {
+    width: 80%;
+    font-size: 1.1em;
+    text-align: justify;
+	
+}
+
+.hospitality .left-column h3 {
+    width: 80%;
+    font-size: 2em;
+}
+
+.hospitality .right-column{
+	width: 100%;
+	height: 50%;
+}
+
+
+
+/*ict Styles*/
+
+
+.ict .left-column{
+	width: 100%;
+	height: 50%;
+}
+
+.ict .right-column{
+	width:100%;
+	height:50%;
+}
+
+.ict .right-column .right-column-text{
+	top:20%;
+	
+}
+
+.ict .right-column p {
+    width: 80%;
+    font-size: 1.1em;
+    text-align: justify;
+	
+}
+
+.ict .right-column h3{
+    width: 80%;
+    font-size: 2em;
+}
+
+#training{
+   display:flex;
+   flex-flow: column;
+}
+#training2{
+   display:flex;
+   flex-flow: column;
+}
+#training3{
+   display:flex;
+   flex-flow: column;
+}
+
+#about1{
+   display:flex;
+   flex-flow: column;
+}
+
+#about2{
+   display:flex;
+   flex-flow: column;
+}
+	
+	
+#a{order:1;}
+#b{order:2;}
+#c{order:3;}
+#d{order:4;}
+#e{order:5;}
+#f{order:6;}
+#g{order:1;} 
+#h{order:2;}
+#i{order:3;} 
+#j{order:4;}
+
+/*hash skillup styles*/
+
+.hash-skillup .left-column{
+	width: 100%;
+	height:50%;
+}
+	
+.hash-skillup .left-column .left-column-text{
+	top: 30%;
+}
+
+.hash-skillup .left-column h3 {
+    width: 80%;
+    font-size: 2em; 
+	padding: 10% 0;
+}
+
+.hash-skillup .right-column{
+	background-attachment: fixed;
+	width: 100%;
+	height: 50%;
+}
+
+
+
+/*testing Styles*/
+
+
+.testing .left-column{
+	width: 100%;
+	height: 50%;
+}
+
+.testing .right-column{
+	width:100%;
+	height:50%;
+}
+
+.testing .right-column .right-column-text{
+	top:30%;
+	
+}
+
+.testing .right-column h3{
+    width: 80%;
+    font-size: 2em;
+}
+
+.testing .right-column p{
+	width:90%;	
+	font-size:1.1em;
+}
+
+/*about ekata Styles*/
+
+.about-ekata .left-column{
+	width:100%;	
+}
+
+.about-ekata .right-column{
+	display:none;	
+}
+
+.about-ekata .left-column p{
+	width:90%;
+	font-size:1.1em;
+}
+
+.about-ekata .left-column .left-column-text{
+	top:20%;
+}
+
+.what-we-do p{
+	width:90%;	
+	font-size:1.1em;
+}
+
+
+}
